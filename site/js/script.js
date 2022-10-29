@@ -95,7 +95,7 @@ monogatari.script ({
 
 		// 'show notification Welcome',
 		'show character akela happy at center with fadeIn',
-		'akela hola hoy vamos a ver una historia del libro de las tierras virgenes',
+		'akela hola hoy vamos a ver una historia del libro de las tierras virgenes saludos raul',
         'end',
 		,
 
